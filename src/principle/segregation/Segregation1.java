@@ -1,5 +1,8 @@
 package principle.segregation;
 
+/**
+ * 接口隔离原则方案一
+ */
 public class Segregation1 {
     public static void main(String[] args) {
 
